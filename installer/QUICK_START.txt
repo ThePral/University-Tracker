@@ -1,0 +1,30 @@
+UNIVERSITY TRACKER
+==================
+
+Use University Tracker from the Start Menu, or the desktop shortcut if selected
+during installation. Python and Excel are not required to run this application.
+
+YOUR DATA
+Each Windows user has a separate workbook, stored at:
+%LOCALAPPDATA%\University Tracker\Excel_Sheets\universities.xlsx
+
+The tracker starts empty. Add programs in the app, or use Data tools > Import
+programs to import a CSV. The app creates the workbook when you save a program.
+Data tools > Open data folder opens your workbook folder.
+Close the workbook in Excel before saving from University Tracker.
+
+UPGRADES AND UNINSTALLING
+Running a newer installer updates the application. Your workbook is stored
+separately and is kept when you upgrade or uninstall University Tracker.
+Uninstall through Windows Settings > Apps > Installed apps.
+
+MOVING AN EXISTING WORKBOOK FROM A PORTABLE COPY
+1. Use Data tools > Create backup to make a backup of the original workbook.
+2. In the installed application, use Data tools > Open data folder.
+3. Close University Tracker and Excel.
+4. Copy the original universities.xlsx into the opened folder. Back up any
+   workbook already there before replacing it.
+5. Start University Tracker again.
+
+No personal shortlist or workbook from the person building this installer is
+included. Third-party dependency license files are in ThirdPartyLicenses.

@@ -1,0 +1,4 @@
+University Tracker installed edition.
+The presence of this file beside UniversityTrackerQt.exe enables per-user data storage:
+%LOCALAPPDATA%\University Tracker\Excel_Sheets\universities.xlsx
+This file is included only in the installer edition, not in portable builds.
